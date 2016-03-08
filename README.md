@@ -12,7 +12,7 @@ Problem: Multiply Two Sparse Matrices using Parallel Threads in C++ and print th
 
 			x11 : X coordinate of non Zero position in Matrix A ( at (x = 1) )
 			y11 : Y coordinate of Non zero position in Matrix B ( at (y = 1) )
-			w11 : Weight at corrsponding posiiton of Matrix A				 
+			w11 : Weight at corresponding posiiton of Matrix A				 
 
 Input Format:
 
